@@ -44,6 +44,7 @@ will be updating more
 
 * Join Hero Programmers discord server 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
 * Add yourself to members table <a href="Click will be provided">here</a> 👈
+* Fill up the details to get invitation.
 * 🎊 Hurray! You're a member of such awesome community 🎉
 
 <br>
