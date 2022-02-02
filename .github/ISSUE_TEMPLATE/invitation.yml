@@ -1,7 +1,7 @@
 name: Invitation to the GitHub Community Organization
 description: I would like to be part of the awesome community
 title: "Please invite me to the GitHub Community Organization"
-labels: [invite me to the organisation]
+labels: [invite me to the organization]
 body:
   - type: input
     id: name
@@ -27,5 +27,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        You can also join our Discord community <a href="https://discord.gg/A8JG8K9TAk">here</a> 
+        You can also join our Discord community <a href="https://discord.gg/A8JG8K9TAk">here</a>
         Feel free to check out other cool repositories of the Hero Programmers Community [here](https://github.com/HeroProgrammers)
