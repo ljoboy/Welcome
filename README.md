@@ -27,13 +27,13 @@ _The main purpose of this organization is to create a space for everyone who wan
 <table>
   <tr>
     <td align="center"><a href="https://github.com/TheCodeHeist"><img src="https://avatars.githubusercontent.com/u/58696699?v=4" width="100px;" alt=""/><br /><sub><b>Riyasat</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Arghadatta"><img src="https://avatars.githubusercontent.com/u/78955676?v=4" width="100px;" alt=""/><br /><sub><b>Arghadatta</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Prince2347X"><img src="https://avatars.githubusercontent.com/u/68418241?v=4" width="100px;" alt=""/><br /><sub><b>Raj</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Arghadatta"><img src="https://avatars.githubusercontent.com/u/78955676?v=4" width="100px;" alt=""/><br /><sub><b>Argha Datta</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Prince2347X"><img src="https://avatars.githubusercontent.com/u/68418241?v=4" width="100px;" alt=""/><br /><sub><b>Prince Raj</b></sub></a></td>
     <td align="center"><a href="https://github.com/Datavorous"><img src="https://avatars.githubusercontent.com/u/76801656?v=4" width="100px;" alt=""/><br /><sub><b>Datavorous</b></sub></a></td>
   </tr>
 </table>
 
-will be updating more
+Will be updating more
 
 
 ## _**Members**_ 👨‍
