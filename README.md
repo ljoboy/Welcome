@@ -50,7 +50,7 @@ Will be updating more
 
 * Join Hero Programmers discord server 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
 * Add yourself to members table <a href="https://github.com/HeroProgrammers/Welcome#members-">here</a> 👈
-* Fill up the details to get invitation <a href="https://github.com/HeroProgrammers/Welcome/issues/new?assignees=&labels=invite+me+to+organization&template=invite.yml&title=invite+me+to+organization">here</a>.
+* Fill up the details to get invitation <a href="https://github.com/HeroProgrammers/Welcome/issues/new/choose">here</a>.
 * 🎊 Hurray! You're a member of such awesome community 🎉
 
 <br>
