@@ -38,12 +38,21 @@ Will be updating more
 
 ## _**Members**_ 👨‍
 
-#Similarly here every members' profile pic, accept the mods and owners will be displayed.
+<table>
+  <tr>
+    <!--- Add yourself here --->
+    
+    <td align="center"><a href="https://github.com/labibkhanofficialbd"><img src="https://avatars.githubusercontent.com/u/67333632?v=4" width="100px;" alt=""/><br /><sub><b>Irtiza</b></sub></a></td>
+    <td align="center"><a href="https://github.com/harikanani"><img src="https://avatars.githubusercontent.com/u/54361799?v=4" width="100px;" alt=""/><br /><sub><b>Harikrushn</b></sub></a></td>
+    
+<!--- Add yourself above this --->
+  </tr>
+</table>
 
 ### _**How to become member?**_
 
 * Join Hero Programmers discord server 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
-* Add yourself to members table <a href="Click will be provided">here</a> 👈
+* Add yourself to members table <a href="https://github.com/HeroProgrammers/Welcome#members-">here</a> 👈
 * Fill up the details to get invitation <a href="https://github.com/HeroProgrammers/Welcome/issues/new?assignees=&labels=invite+me+to+organization&template=invite.yml&title=invite+me+to+organization">here</a>.
 * 🎊 Hurray! You're a member of such awesome community 🎉
 
