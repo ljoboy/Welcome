@@ -40,12 +40,9 @@ Will be updating more
 
 <table>
   <tr>
-    <!--- Add yourself here --->
-    
     <td align="center"><a href="https://github.com/labibkhanofficialbd"><img src="https://avatars.githubusercontent.com/u/67333632?v=4" width="100px;" alt=""/><br /><sub><b>Irtiza</b></sub></a></td>
     <td align="center"><a href="https://github.com/harikanani"><img src="https://avatars.githubusercontent.com/u/54361799?v=4" width="100px;" alt=""/><br /><sub><b>Harikrushn</b></sub></a></td>
-    
-<!--- Add yourself above this --->
+    <!--- ADD YOURSELF HERE -->
   </tr>
 </table>
 
