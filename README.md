@@ -1,4 +1,5 @@
 # **Welcome**
+
 Hero Programmers is a Github community that was created in 1st Feb 2022. It is a space for programmers to collaborate in open source projects and learn from each other while working in a team.
 
 ## _**Purpose**_ ✔️
@@ -7,9 +8,9 @@ _The main purpose of this organization is to create a space for everyone who wan
 
 ### _**What are the goals of it?**_
 
-* Creating a space for collaboration
-* Experiencing the taste of teamwork
-* Promoting both solo and open source projects made by our members.
+- Creating a space for collaboration
+- Experiencing the taste of teamwork
+- Promoting both solo and open source projects made by our members.
 
 ## _**Our GitHub Organization Leaders**_
 
@@ -17,7 +18,6 @@ _The main purpose of this organization is to create a space for everyone who wan
   <tr>
     <td align="center"><a href="https://github.com/MrinankBhowmick"><img src="https://avatars.githubusercontent.com/u/77621953?v=4" width="100px;" alt=""/><br /><sub><b>Mrinank</b></sub></a></td>
     <td align="center"><a href="https://github.com/genuinestalwart"><img src="https://avatars.githubusercontent.com/u/81245791?v=4" width="100px;" alt=""/><br /><sub><b>Genuine</b></sub></a></td>
-
 
   </tr>
 </table>
@@ -35,7 +35,6 @@ _The main purpose of this organization is to create a space for everyone who wan
 
 Will be updating more
 
-
 ## _**Members**_ 👨‍
 
 <table>
@@ -43,15 +42,16 @@ Will be updating more
     <td align="center"><a href="https://github.com/labibkhanofficialbd"><img src="https://avatars.githubusercontent.com/u/67333632?v=4" width="100px;" alt=""/><br /><sub><b>Irtiza</b></sub></a></td>
     <td align="center"><a href="https://github.com/harikanani"><img src="https://avatars.githubusercontent.com/u/54361799?v=4" width="100px;" alt=""/><br /><sub><b>Harikrushn</b></sub></a></td>
     <!--- ADD YOURSELF HERE -->
+    <td align="center"><a href="https://github.com/zaman-atif"><img src="https://avatars.githubusercontent.com/u/96812318?v=4" width="100px;" alt=""/><br /><sub><b>Atif</b></sub></a></td>
   </tr>
 </table>
 
 ### _**How to become member?**_
 
-* Join Hero Programmers discord server 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
-* Add yourself to members table <a href="https://github.com/HeroProgrammers/Welcome#members-">here</a> 👈
-* Fill up the details to get invitation <a href="https://github.com/HeroProgrammers/Welcome/issues/new/choose">here</a>.
-* 🎊 Hurray! You're a member of such awesome community 🎉
+- Join Hero Programmers discord server 👉 <a href="https://discord.gg/A8JG8K9TAk">here</a>
+- Add yourself to members table <a href="https://github.com/HeroProgrammers/Welcome#members-">here</a> 👈
+- Fill up the details to get invitation <a href="https://github.com/HeroProgrammers/Welcome/issues/new/choose">here</a>.
+- 🎊 Hurray! You're a member of such awesome community 🎉
 
 <br>
 
