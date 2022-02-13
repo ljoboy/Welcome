@@ -1,5 +1,7 @@
 # **Welcome**
 
+![Cover Photo](./cover.png)
+
 Hero Programmers is a Github community that was created in 1st Feb 2022. It is a space for programmers to collaborate in open source projects and learn from each other while working in a team.
 
 ## _**Purpose**_ ✔️
